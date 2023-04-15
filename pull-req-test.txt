@@ -1,0 +1,1 @@
+This file has been made to verify protection rule applied to dev branch
